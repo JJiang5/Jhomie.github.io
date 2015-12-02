@@ -1,0 +1,86 @@
+body
+{
+    background-image: url("http://pomi.us.com/images/tomatoes.jpg");
+    
+}
+#first
+{
+    text-align:center;
+    font-family:Courier;
+    font-size:20px;
+    border:10px solid red;   
+    background:red;
+    border-radius:40px;
+    margin:100px;
+    right:600px;
+    z-index:9;
+    position:fixed;
+    width:100px;
+}
+#second
+{
+     margin-left:970px;
+    margin-top:500px;
+    z-index:-2;
+    position:fixed;
+    height:200px;
+    width:250px;
+    
+}
+#forth
+{
+    margin-top:100px;
+    margin-left:800px;
+    z-index:7;
+    position:fixed;
+    height:200px;
+    width:200px;
+}
+#fifth
+{
+    margin-left:720px;
+    margin-top:550px;
+    z-index:6;
+    position:fixed;
+    height:200px;
+    width:250px;
+}
+#sixth
+{
+    margin-top:200px;
+    margin-left:960px;
+    z-index:5;
+    position:fixed;
+    height:300px;
+    width:300px;
+}
+#seventh
+{
+    margin-top:270px;
+    margin-left:560px;
+    position:fixed;
+    height:250px;
+    width:350px;
+}
+#eighth
+{
+    margin-top:30px;
+    margin-left:640px;
+    position:fixed;
+    height:100px;
+    width:150px;
+}
+#potato
+{
+    text-align:center;
+    font-family:arial;
+    font-size:34px;
+    border:32px solid red;   
+    background:red;
+    border-radius:100px;
+    margin:10px;
+    right:800px;
+    z-index:9;
+    position:fixed;
+    width:250px;
+}
